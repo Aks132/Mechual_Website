@@ -1,12 +1,12 @@
-/* *{
+*{
     
 }
 body {
     background-color: #E8EAEA;
     text-align: center;
-    font-family: 'Varela Round', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* font-family: 'Varela Round', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
     color: #ffffff;
-    font-size: 16px;
+    /* font-size: 16px; */
     
 }
 
@@ -130,4 +130,4 @@ ul.social li a:hover {
         padding-left: .5em;
         padding-right: .5em;
     }
-} */
+}
