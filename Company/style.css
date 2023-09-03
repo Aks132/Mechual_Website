@@ -32,7 +32,7 @@ p {
     font-size: 1.1em;
     line-height: 1.5em;
 }
-
+/*  */
 .illustration {
     display: block;
     max-width: 1034px;
@@ -68,7 +68,7 @@ ul.social li a:hover {
     color: #fff;
     background: #35c2be;
 }
-
+/*
 @media only screen and (max-width: 1020px) {
     body {
         padding-top: 3em;
