@@ -90,7 +90,7 @@ ul.social li a:hover {
 
 @media only screen and (max-width: 768px) {
     body {
-        padding-top: 1.6em;
+        padding-top: 0em;
     }
     h1 {
         font-size: 2.2em;
@@ -119,7 +119,7 @@ ul.social li a:hover {
         padding-right: 0em;
     }
     h1 {
-        font-size: 0em;
+        font-size: 1.6em;
     }
     h2 {
         font-size: 0.9em;
